@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aphelion",
+      "hasCanvas": true,
+      "bodyTextLen": 407,
+      "bodyTextHash": "1b4a7bdaa05582a15e90c0777e02c22dc756e648e0005c2ce5dfa5f14485976e",
+      "bodyTextPrefix": "Earth orbit Aphelion Vesper is a stainless reusable ship, alread",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aphelion",
+      "hasCanvas": true,
+      "bodyTextLen": 407,
+      "bodyTextHash": "1b4a7bdaa05582a15e90c0777e02c22dc756e648e0005c2ce5dfa5f14485976e",
+      "bodyTextPrefix": "Earth orbit Aphelion Vesper is a stainless reusable ship, alread",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
