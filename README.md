@@ -1,6 +1,6 @@
 # Aphelion is ready. 
 
-# My project for the BDBI x SpaceXSI Grokathon, built using Grok.
+### My project for the BDBI x SpaceXSI Grokathon, built using Grok.
 
 ## You start in Earth orbit aboard Vesper and fly a real Keplerian path to a planet, a Kuiper-belt world, or the Sun.
 
